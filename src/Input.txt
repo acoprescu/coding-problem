@@ -1,0 +1,49 @@
+0
+10
+John Doe
+40
+Street Abc 1 
+Some Report
+0
+
+0
+20
+John Doe
+30
+Random Street 1
+Current Report
+10
+
+
+0
+30
+Jane Doe
+30
+Random Street 2
+Current Report
+10
+
+
+0
+40
+John John
+30
+Random Street
+Current Report
+10
+
+2
+
+1 
+John Doe
+0
+
+John Doe the 1st
+50
+New Address
+New Report
+0
+
+2
+3
+
